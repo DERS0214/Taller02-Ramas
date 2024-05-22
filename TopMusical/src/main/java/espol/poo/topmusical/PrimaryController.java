@@ -45,6 +45,7 @@ public class PrimaryController {
             } catch (FileNotFoundException ex) {
                 ex.printStackTrace();
             }
+            //cambio de orden entre artista y cantante
             Label lbT = new Label( c.getCantante() + " \n" + c.getTitulo());//titulo y cantante
             lbT.setStyle("-fx-font-weight: bold;-fx-font-size: 14;");
 
