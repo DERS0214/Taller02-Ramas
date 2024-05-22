@@ -5,3 +5,6 @@ LIDER: Cambio de título.
 
 INTEGRANTE 1: Cambio de orden ascendente a descendente (revertir orden).
 ![image](https://github.com/DERS0214/Taller02-Ramas/assets/143484307/2031e4d9-1396-48c7-b37a-10db2104d8c2)
+
+INTEGRANTE 3: Cambio en la posicion del numero de las canciones
+![image](https://github.com/DERS0214/Taller02-Ramas/assets/137842821/0c40605e-315f-4571-bf73-b38dbb8e4ee6)
